@@ -1,0 +1,8 @@
+1,2,3,4,5,6,7,8,Male,Female,Age,Crete,Cyprus,Peloponnese,Central Greece,Thessaly,Epirus,Macedonia,Thrace,Pontos,Dodekanisa,Cyclades,Sporades,Ionnian,North_Agean,Other,Place_extra,Elementary,High School,Senior School,IEK,AEI-TEI,Post-grad_PhD,Music relation (Y),Music relation (N),Music rel (extra),Classic,Jazz/Blues,Pop,Rock_Metal,Electronical,Greek Music,Rap_Hip-Hop
+joy,sorrow,surprise,nostalgia,boredom,annoyance,joy,surprise,1,0,21,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1
+joy,nostalgia,joy,nostalgia,boredom,nostalgia,anticipation,surprise,0,1,31,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0
+nostalgia,anticipation,joy,joy,boredom,nostalgia,anticipation,nostalgia,1,0,53,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1
+surprise,anticipation,joy,surprise,anticipation,nostalgia,anticipation,surprise,1,0,35,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+joy,surprise,joy,joy,joy,sorrow,joy,joy,0,1,62,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+joy,annoyance,anticipation,sorrow,sorrow,boredom,boredom,joy,1,0,33,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+joy,anticipation,joy,nostalgia,nostalgia,nostalgia,joy,joy,0,1,35,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0

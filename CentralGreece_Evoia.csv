@@ -1,0 +1,15 @@
+1,2,3,4,5,6,7,8,9,10,11,Male,Female,Age,Crete,Cyprus,Peloponnese,Central Greece,Thessaly,Epirus,Macedonia,Thrace,Pontos,Dodekanisa,Cyclades,Sporades,Ionnian,North_Agean,Other,Place_extra,Elementary,High School,Senior School,IEK,AEI-TEI,Post-grad_PhD,Music relation (Y),Music relation (N),Music rel (extra),Classic,Jazz/Blues,Pop,Rock_Metal,Electronical,Greek Music,Rap_Hip-Hop
+surprise,boredom,annoyance,joy,boredom,annoyance,annoyance,annoyance,annoyance,boredom,boredom,0,1,31,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+sorrow,nostalgia,rage,boredom,boredom,joy,nostalgia,nostalgia,sorrow,joy,sorrow,0,1,31,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0
+surprise,sorrow,annoyance,joy,joy,joy,joy,boredom,joy,boredom,joy,1,0,21,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1
+anticipation,anticipation,joy,boredom,boredom,joy,boredom,sorrow,joy,annoyance,annoyance,0,1,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+sorrow,nostalgia,annoyance,anticipation,nostalgia,joy,rage,sorrow,sorrow,nostalgia,anticipation,1,0,33,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+anticipation,surprise,annoyance,surprise,surprise,surprise,boredom,nostalgia,surprise,annoyance,joy,1,0,23,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1
+nostalgia,boredom,rage,joy,nostalgia,sorrow,sorrow,boredom,joy,surprise,sorrow,1,0,34,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0
+joy,joy,annoyance,boredom,boredom,joy,boredom,boredom,joy,annoyance,joy,0,1,42,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+surprise,sorrow,annoyance,boredom,boredom,sorrow,annoyance,anticipation,annoyance,sorrow,sorrow,1,0,38,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0
+annoyance,annoyance,rage,boredom,boredom,surprise,anticipation,sorrow,boredom,anticipation,boredom,1,0,35,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+joy,joy,boredom,joy,sorrow,joy,joy,sorrow,joy,nostalgia,joy,0,1,62,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+nostalgia,joy,annoyance,boredom,nostalgia,joy,nostalgia,sorrow,nostalgia,nostalgia,nostalgia,0,1,35,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0
+joy,joy,annoyance,anticipation,sorrow,joy,surprise,sorrow,surprise,joy,nostalgia,1,0,33,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+joy,joy,annoyance,boredom,joy,anticipation,nostalgia,nostalgia,anticipation,anticipation,joy,1,0,36,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
